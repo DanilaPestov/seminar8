@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pest/Desktop/Seminar4/seminar8/HomeWork8/HomeWork8.csproj": {}
+    "/Users/pest/Desktop/seminar8/HomeWork8/HomeWork8.csproj": {}
   },
   "projects": {
-    "/Users/pest/Desktop/Seminar4/seminar8/HomeWork8/HomeWork8.csproj": {
+    "/Users/pest/Desktop/seminar8/HomeWork8/HomeWork8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pest/Desktop/Seminar4/seminar8/HomeWork8/HomeWork8.csproj",
+        "projectUniqueName": "/Users/pest/Desktop/seminar8/HomeWork8/HomeWork8.csproj",
         "projectName": "HomeWork8",
-        "projectPath": "/Users/pest/Desktop/Seminar4/seminar8/HomeWork8/HomeWork8.csproj",
+        "projectPath": "/Users/pest/Desktop/seminar8/HomeWork8/HomeWork8.csproj",
         "packagesPath": "/Users/pest/.nuget/packages/",
-        "outputPath": "/Users/pest/Desktop/Seminar4/seminar8/HomeWork8/obj/",
+        "outputPath": "/Users/pest/Desktop/seminar8/HomeWork8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pest/.nuget/NuGet/NuGet.Config"
